@@ -1,0 +1,19 @@
+assignment : 
+
+i <- 10
+i = i + 1               <=> i <- i + 1
+
+operators:
++
+-
+*
+/
+^
+% => a % b = a - [a/b] 
+
+
+goto lables : 
+
+L:
+
+goto L
